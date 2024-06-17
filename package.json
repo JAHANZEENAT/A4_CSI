@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node": "^22.3.0"
+  }
+}
